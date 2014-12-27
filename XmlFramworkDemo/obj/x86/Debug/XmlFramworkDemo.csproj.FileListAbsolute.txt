@@ -1,0 +1,11 @@
+E:\MyFile\Projects\XmlFramwork\XmlFramworkDemo\bin\Debug\XmlFramworkDemo.exe.config
+E:\MyFile\Projects\XmlFramwork\XmlFramworkDemo\bin\Debug\XmlFramworkDemo.exe
+E:\MyFile\Projects\XmlFramwork\XmlFramworkDemo\bin\Debug\XmlFramworkDemo.pdb
+E:\MyFile\Projects\XmlFramwork\XmlFramworkDemo\bin\Debug\XmlFramwork.dll
+E:\MyFile\Projects\XmlFramwork\XmlFramworkDemo\bin\Debug\XmlFramwork.pdb
+E:\MyFile\Projects\XmlFramwork\XmlFramworkDemo\obj\x86\Debug\XmlFramworkDemo.csprojResolveAssemblyReference.cache
+E:\MyFile\Projects\XmlFramwork\XmlFramworkDemo\obj\x86\Debug\XmlFramworkDemo.DemoForm.resources
+E:\MyFile\Projects\XmlFramwork\XmlFramworkDemo\obj\x86\Debug\XmlFramworkDemo.Properties.Resources.resources
+E:\MyFile\Projects\XmlFramwork\XmlFramworkDemo\obj\x86\Debug\XmlFramworkDemo.csproj.GenerateResource.Cache
+E:\MyFile\Projects\XmlFramwork\XmlFramworkDemo\obj\x86\Debug\XmlFramworkDemo.exe
+E:\MyFile\Projects\XmlFramwork\XmlFramworkDemo\obj\x86\Debug\XmlFramworkDemo.pdb

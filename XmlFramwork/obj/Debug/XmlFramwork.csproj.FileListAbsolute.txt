@@ -1,0 +1,4 @@
+E:\MyFile\Projects\XmlFramwork\XmlFramwork\bin\Debug\XmlFramwork.dll
+E:\MyFile\Projects\XmlFramwork\XmlFramwork\bin\Debug\XmlFramwork.pdb
+E:\MyFile\Projects\XmlFramwork\XmlFramwork\obj\Debug\XmlFramwork.dll
+E:\MyFile\Projects\XmlFramwork\XmlFramwork\obj\Debug\XmlFramwork.pdb
